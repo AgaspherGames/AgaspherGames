@@ -40,3 +40,5 @@
 <img src="https://raw.githubusercontent.com/AgaspherGames/AgaspherGames/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AgaspherGames?theme=dark&font=Gowun%20Dodum)
